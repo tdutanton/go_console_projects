@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"smart_utilities/internal/slicecrossing"
+	"github.com/tdutanton/go_console_projects/internal/slicecrossing"
 )
 
 // Main function for check common values in two integers slices.

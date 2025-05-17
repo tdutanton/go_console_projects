@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"smart_utilities/internal/wordfreq"
+	"github.com/tdutanton/go_console_projects/internal/wordfreq"
 )
 
 // Main function for analyzing word frequency in text.

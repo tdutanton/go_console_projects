@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"smart_utilities/internal/calculator"
+	"github.com/tdutanton/go_console_projects/internal/calculator"
 )
 
 // Main function for Smart Calculator function.

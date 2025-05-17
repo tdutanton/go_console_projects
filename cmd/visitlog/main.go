@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"smart_utilities/internal/visitlog"
+	"github.com/tdutanton/go_console_projects/internal/visitlog"
 )
 
 // Main function for Visit Log.
